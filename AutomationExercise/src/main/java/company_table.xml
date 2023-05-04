@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company_table>
+    <row>
+        <company>Alfreds Futterkiste</company>
+        <contact>Maria Anders</contact>
+        <country>Germany</country>
+    </row>
+    <row>
+        <company>Centro comercial Moctezuma</company>
+        <contact>Francisco Chang</contact>
+        <country>Mexico</country>
+    </row>
+    <row>
+        <company>Ernst Handel</company>
+        <contact>Roland Mendel</contact>
+        <country>Austria</country>
+    </row>
+    <row>
+        <company>Island Trading</company>
+        <contact>Helen Bennett</contact>
+        <country>UK</country>
+    </row>
+    <row>
+        <company>Laughing Bacchus Winecellars</company>
+        <contact>Yoshi Tannamuri</contact>
+        <country>Canada</country>
+    </row>
+    <row>
+        <company>Magazzini Alimentari Riuniti</company>
+        <contact>Giovanni Rovelli</contact>
+        <country>Italy</country>
+    </row>
+</company_table>
